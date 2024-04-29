@@ -1,0 +1,384 @@
+.intro{
+  width: 1512px;
+height: 982px;
+position: relative;
+gap: 0px;
+opacity: 0px;
+background-image:url("./images/image 5.png");
+background-size: cover;
+opacity: 0.90;
+}
+.intro1{
+  width: 515.97px;
+height: 219.91px;
+position:absolute;
+top: 140px;
+left: 827px;
+gap: 0px;
+border: 0.27px 0px 0px 0px;
+opacity: 0px;
+border: 0.27px solid #EFF8FA;
+box-shadow: 3px 6px 29.7px 0px #68E0F3;
+}
+.intro2{
+  width: 451px;
+height: 76px;
+top: 178px;
+left: 872px;
+gap: 0px;
+opacity: 0px;
+font-family: Nunito;
+font-size: 56px;
+font-weight: 800;
+line-height: 76.38px;
+text-align: left;
+color: #11AEC6;
+}
+.intro3{
+   width: 373px;
+height: 120.51px;
+position:absolute;
+top: 794px;
+left: 1078px;
+gap: 0px;
+border-radius: 40.17px 0px 0px 0px;
+border: 2.01px 0px 0px 0px; 
+opacity: 0px;
+border: 2.01px solid #FFDF6D;
+border-radius: 20px;
+background: #FFDF6D;
+box-shadow: 0px 8.03px 0px 0px #FFD540;
+}
+.intro4{
+  width: 309.31px;
+height: 100.42px;
+top: 800.03px;
+left: 1088.04px;
+gap: 0px;
+border-radius: 40.17px ;
+opacity: 0px;
+background: #FED33B;
+box-shadow: 0px 8.03px 0px 0px #EDB900;
+box-shadow: -7px 8px 19.8px 0px #EDB900 inset;
+}
+.intro5{
+  width: 228px;
+height: 88px;
+top: 812.1px;
+left: 1129.4px;
+gap: 0px;
+border: 2.01px 0px 0px 0px;
+opacity: 0px;
+font-family: Nunito;
+font-size: 64.27px;
+font-weight: 900;
+line-height: 87.67px;
+letter-spacing: 0.06em;
+text-align: center;
+color: #EFF8FA;
+background:#FED33B;
+border: 2.01px solid #FED33B;
+border-radius: 20px ;
+
+}
+.intro6{
+  width: 646px;
+height: 630.91px;
+position: relative;
+top: 271px;
+left: 452px;
+gap: 0px;
+border-radius: 48.49px 0px 0px 0px;
+background-image: url("./images/Group 153.png");
+}
+.intro7{
+  width: 194px;
+height: 194px;
+position: absolute;
+top: 45px;
+left: 43px;
+gap: 0px;
+opacity: 0px;
+border-radius: 30px;
+border: 11px solid #FFFFFF;
+background-image: url("./images/Group 156.png");
+/* background: linear-gradient(180deg, #71BE00 0%, #56B000 100%); */
+
+
+}
+.intro8{
+  width: 37.39px;
+  height: 755.26px;
+  position: absolute;
+  top: 30.44px;
+  left: 280px;
+  gap: 0px;
+  border-radius: 0px 0px 11.22px 11.22px;
+  opacity: 0px;
+  rotate: 90.28 deg;
+}
+.img1{
+  position: relative;
+  height: 85px;
+  top:-50px;
+  left:690px
+}
+.intro9{
+  width: 351px;
+height: 438px;
+position: absolute;
+top: 330px;
+left: 127px;
+gap: 0px;
+border-radius: 69px 0px 0px 0px;
+opacity: 0px;
+background: rgba(255, 255, 255, 1);
+border-radius: 20px;
+/* border: 2px solid red; */
+}
+.intro10{
+  width: 351px;
+height: 438px;
+position: absolute;
+top: 330px;
+left: 597px;
+gap: 0px;
+border-radius: 69px 0px 0px 0px;
+opacity: 0px;
+background: rgba(255, 255, 255, 1);
+border-radius: 20px;
+
+
+}
+.intro11{
+  width: 351px;
+height: 438px;
+position: absolute;
+top: 330px;
+left: 1067px;
+gap: 0px;
+border-radius: 69px 0px 0px 0px;
+opacity: 0px;
+background: rgba(255, 255, 255, 1);
+border-radius: 20px;
+
+}
+.intro12{
+  width: 182.52px;
+height: 233px;
+position: absolute;
+top: 44px;
+left: 77.83px;
+gap: 0px;
+opacity: 0px;
+border-radius: 20px;
+background: rgba(255, 137, 111, 1);
+background-image:url("./images/Red Apple.png")
+}
+.intro13{
+  width: 58px;
+height: 58px;
+position: absolute;
+top: 294px;
+gap: 0px;
+border-radius: 5px 20px 20px 5px;
+opacity: 0px;
+background: #FFBC0B;
+box-shadow: 0px 5.52px 0px 0px #D29901;
+}
+.intro14{
+  width: 44px;
+height: 49px;
+top: 603px;
+left: 134px;
+gap: 0px;
+opacity: 0px;
+font-family: Nunito;
+font-size: 36px;
+font-weight: 800;
+line-height: 49.1px;
+letter-spacing: 0.02em;
+text-align: center;
+background: #FFBC0B;
+
+}
+.intro15{
+  width: 243px;
+height: 110px;
+position: absolute;
+top: 243px;
+left: 79px;
+gap: 0px;
+opacity: 0px;
+font-family: Nunito;
+font-size: 40px;
+font-weight: 800;
+line-height: 54.56px;
+text-align: center;
+color: #11AEC6;
+
+}
+.intro16{
+  width: 243px;
+height: 33px;
+position: absolute;
+top: 373px;
+left: 73px;
+gap: 0px;
+opacity: 0px;
+font-family: Nunito;
+font-size: 24px;
+font-weight: 800;
+line-height: 32.74px;
+text-align: center;
+color: #A6C930;
+
+}
+.intro17{
+  width: 182.52px;
+  height: 233px;
+  position: absolute;
+  top: 44px;
+  left: 77.83px;
+  gap: 0px;
+  opacity: 0px;
+  /* translate: -5.62 deg; */
+  border-radius: 20px;
+  /* background: rgba(255, 137, 111, 1); */
+  background-image:url("./images/card.png")
+  
+}
+.intro18{
+  width: 182.52px;
+  height: 233px;
+  position: absolute;
+  top: 44px;
+  left: 77.83px;
+  gap: 0px;
+  opacity: 0px;
+  border-radius: 20px;
+  background-image:url("./images/card (1).png")
+  
+}
+.container{
+  height: 500px;
+  width: 900px;
+  position: absolute;
+  top:300px;
+  left:300px;
+  display: grid;
+  grid-template-columns: repeat(6,1fr);
+  grid-template-rows:repeat(2,1fr);
+  gap:1em;
+}
+.card{
+background-color:white;
+
+}
+.card img{
+  width: 100%; 
+  height: 100%;
+  
+}
+
+.card .toggled{
+  background-color: white;
+
+}
+.match{
+  width: 723px;
+height: 131px;
+position: absolute;
+top:-150px;
+left: 311px;
+gap: 0px;
+border: 7px 0px 0px 0px;
+opacity: 0px;
+font-family: Nunito;
+font-size: 96px;
+font-weight: 800;
+line-height: 130.94px;
+letter-spacing: 0.08em;
+text-align: center;
+color: #EF8F35;
+/* border: 7px solid #FFFFFF; */
+border-radius: 30px;
+
+}
+.banana-bar{
+  height: 40px;
+  width: 750px;
+  background-color: #f3f3f3;
+  border-radius: 25px;
+  margin-left: 300px;
+}
+.banana-fill{
+  height: 100%;
+  background-color: yellow;
+  border-radius: 5px;
+  
+}
+.game-won{
+  width: 462.9px;
+  height: 565.19px;
+  position: absolute;
+  top: 200px;
+  left: 500px;
+  gap: 0px;
+  opacity: 0px;
+  border: 1.52px solid rgba(255, 255, 255, 1);
+  background: rgba(255, 245, 209, 1);
+
+  
+}
+.won{
+  width: 414.03px;
+height: 91px;
+position: relative;
+top: 30.44px;
+left: 30.13px;
+gap: 0px;
+border-radius: 30px;
+border: 1.52px 0px 0px 0px;
+opacity: 0px;
+font-family: Nunito;
+font-size: 48.53px;
+font-weight: 700;
+line-height: 66.2px;
+letter-spacing: 0.06em;
+text-align: center;
+border: 1.52px solid rgba(255, 255, 255, 1);
+background-color: #D29901;
+color: white;
+
+}
+.wondiv{
+  width: 289.77px;
+height: 283px;
+position: relative;
+top: 26px;
+left: 70px;
+gap: 0px;
+border-radius: 21.75px ;
+opacity: 0px;
+background-image:url("./images/Group 665 (1).png")
+
+}
+.bananacollect{
+  width: 388px;
+height: 118.89px;
+position: absolute;
+top: 36px;
+left: 703.91px;
+gap: 0px;
+opacity: 0px;
+border: 2px solid #EF8F35;
+background-color: #EF8F35;
+
+
+}
+.bananacollectp{
+  text-align: center;
+  font-size: 30px;
+  color: #EF8F35;
+}
